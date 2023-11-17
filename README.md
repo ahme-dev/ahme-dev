@@ -10,6 +10,6 @@
 
 **Find me on**
 
-[![Website](https://img.shields.io/badge/-Ahmed.systems-darkslategray?logo=Firefox&style=for-the-badge&logoColor=white)](https://ahmed.systems)
+[![Website](https://img.shields.io/badge/-ahme.dev-darkslategray?logo=Firefox&style=for-the-badge&logoColor=white)](https://ahme.dev)
 [![Contact](https://img.shields.io/badge/-Telegram-darkslategray?logo=Telegram&style=for-the-badge&logoColor=white)](https://t.me/ahmedkabd)
 [![Support](https://img.shields.io/badge/-Donate-darkslategray?logo=Buymeacoffee&style=for-the-badge&logoColor=white)](https://www.buymeacoffee.com/ahmeddots)

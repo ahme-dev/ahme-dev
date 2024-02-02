@@ -1,6 +1,6 @@
 **Setup**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Gnomelogo.svg" height="60" width="60"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="60" width="60"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="60" width="60"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" height="60" width="60">
+<img src="https://github.com/swaywm/sway/blob/master/assets/Sway_Tree.svg" height="60" width="60"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="60" width="60"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" height="60" width="60"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" height="60" width="60">
 
 **Tools**
 
